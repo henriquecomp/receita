@@ -15,13 +15,29 @@ Receita de Feijão:
 * 1 dente de alho;
 * 1 colher de óleo;
 
-Receita de Carne de Porco
+Receita de Carne de Porco:
 
-* Tempere a carne com sal
-* Pimenta do reino
-* 1 suco de limão
-* 2 colheres de azeite 
+* Tempere a carne com sal;
+* Pimenta do reino;
+* 1 suco de limão;
+* 2 colheres de azeite;
 
-Receita de Carne Vermelha
+Receita de Carne Vermelha:
 
-* Tempere a carne com sal grosso
+* Tempere a carne com sal grosso;
+
+Receita de Peixe:
+
+* 1 Dourado de 2 Kg;
+* 500gr de batata;
+* 1 pimentão;
+* azeite a gosto;
+
+Receita de Frango:
+
+* 1kg de coxa de frango;
+* 200gr de maionese;
+* 1 colher de sal;
+* 1 colher de pimenta;
+
+
